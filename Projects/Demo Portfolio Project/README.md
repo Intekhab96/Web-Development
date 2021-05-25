@@ -1,7 +1,7 @@
 
 # intekhab96.github.io
 
-# Refer below the Screens of my Demo Portfolio website, incorporating my web development learnings so far.
+# Refer below the Screens of Demo Portfolio website, incorporating my web development learnings so far.
 
 
 
